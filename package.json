@@ -1,5 +1,5 @@
 {
-  "name": "satyadeva",
+  "name": "satyadeva97",
   "private": true,
   "description": "My Portfolio",
   "version": "0.1.0",
@@ -49,9 +49,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/satyadeva97/satyadeva.github.io"
+    "url": "https://github.com/satyadeva97/satyadeva97.github.io"
   },
   "bugs": {
-    "url": "https://github.com/RyanFitzgerald/devfolio/issues"
+    "url": "https://github.com/satyadeva97/satyadeva97.github.io/issues"
   }
 }
